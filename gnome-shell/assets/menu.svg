@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
+   sodipodi:docname="menu-solid.svg"
+   id="svg17"
+   viewBox="0 0 60 60"
+   version="1.1"
+   height="60"
+   width="60">
+  <metadata
+     id="metadata21">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg17"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="30"
+     inkscape:cx="30"
+     inkscape:zoom="8.6333333"
+     showgrid="false"
+     id="namedview19"
+     inkscape:window-height="742"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs5">
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.24"
+       width="1.24"
+       y="-.12"
+       x="-.12"
+       id="a">
+      <feGaussianBlur
+         id="feGaussianBlur2"
+         stdDeviation="2.3999995" />
+    </filter>
+  </defs>
+  <g
+     style="opacity:0.707278"
+     id="g15"
+     transform="translate(0,-992.36)">
+    <rect
+       id="rect7"
+       opacity="0.15"
+       filter="url(#a)"
+       ry="8"
+       rx="8"
+       height="48"
+       width="48"
+       y="998.35999"
+       x="6" />
+    <rect
+       id="rect9"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke="#000000"
+       opacity="0.75"
+       fill="none"
+       ry="7"
+       rx="7"
+       height="46"
+       width="46"
+       y="997.35999"
+       x="7" />
+    <rect
+       id="rect11"
+       fill="#323232"
+       ry="7"
+       rx="7"
+       height="46"
+       width="46"
+       y="997.35999"
+       x="7" />
+    <path
+       id="path13"
+       opacity="0.1"
+       fill="#ffffff"
+       d="M 14,5 C 10.122,5 7,8.122 7,12 v 32 c 0,3.878 3.122,7 7,7 h 32 c 3.878,0 7,-3.122 7,-7 V 12 C 53,8.122 49.878,5 46,5 Z m 0,1 h 32 c 3.324,0 6,2.676 6,6 v 32 c 0,3.324 -2.676,6 -6,6 H 14 C 10.676,50 8,47.324 8,44 V 12 C 8,8.676 10.676,6 14,6 Z"
+       transform="translate(0,992.36)" />
+  </g>
+</svg>
